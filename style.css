@@ -52,7 +52,6 @@ body{
     text-size-adjust: none;
     font-family: Helvetica;
 }
-
 .contentblock{
     background-image: url(images/firts.jpg);
     height: 640px;
@@ -73,20 +72,29 @@ body{
     color: #ffffff;
 }
 
-
+.demo{
+    height: 500px;
+}
+.video{
+    text-align: center;
+    vertical-align: middle;
+    width: 250px;
+    height: 450px;
+}
 .benefits{
-    height: 250px;
-
+    height: 500px;
+    width: 1280px;
+    background-image: url(images/plashka.jpg);
+    margin:0 auto;
 }
-.benefits p{
-    display: inline-block;
 
-    margin-right: 50px;
-}
 .benefits img{
     width: 200px;
     height:349px;
+    display: inline-block;
+    margin: 75px 50px 75px 50px;
     text-align: center;
+
 }
 
 
