@@ -104,11 +104,16 @@ body{
     font-weight: bold;
     font-size: 32px;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 .nata, .sasha, .rita{
     display: inline-block;
     margin-right: 50px;
     width: 260px;
+    margin-bottom: 55px;
+}
+.nata{
+    padding-left: 230px;
 }
 .team img{
     width: 150px;
@@ -118,10 +123,14 @@ body{
 }
 .team h2{
     font-weight: bold;
-
+    padding-bottom: 10px;
 }
 .team h2, .team h3, .team p, .team a{
     text-align: center;
+}
+.team p{
+    font-size: 12px;
+    padding-bottom: 15px;
 }
 
 
