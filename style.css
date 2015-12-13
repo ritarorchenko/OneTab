@@ -74,13 +74,15 @@ body{
 
 .demo{
     height: 500px;
+    width: 1280px;
 }
 .video{
-    text-align: center;
-    vertical-align: middle;
-    width: 250px;
-    height: 450px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 400px;
+
 }
+
 .benefits{
     height: 500px;
     width: 1280px;
