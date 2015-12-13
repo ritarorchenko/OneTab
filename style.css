@@ -96,8 +96,35 @@ body{
     display: inline-block;
     margin: 75px 50px 75px 50px;
     text-align: center;
+}
+
+.team h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 30px;
+}
+.nata, .sasha, .rita{
+    display: inline-block;
+    margin-right: 50px;
+    width: 260px;
+}
+.team img{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+.team h2{
+    font-weight: bold;
 
 }
+.team h2, .team h3, .team p, .team a{
+    text-align: center;
+}
+
+
 
 
 
